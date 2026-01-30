@@ -1,14 +1,14 @@
 # Hi there, I'm Punit Shukal! 👋
 
-[cite_start]I am a **Master’s student in Computer Software Engineering** at Arizona State University with a passion for building scalable web applications, exploring knowledge graphs, and creating immersive experiences in Unity[cite: 4, 5]. 
+ I am a **Master’s student in Computer Software Engineering** at Arizona State University with a passion for building scalable web applications, exploring knowledge graphs, and creating immersive experiences in Unity[cite: 4, 5]. 
 
 ---
 
 ### 🚀 About Me
-- [cite_start]🎓 **Education:** Pursuing MS in Computer Software Engineering at **ASU** (Exp. May 2026).
-- [cite_start]🏆 **Latest Achievement:** 1st Place in the **Endstar Spark-Challenge Hackathon** (Capstone Track).
-- [cite_start]🔭 **Currently working on:** Refining my skills in Python, Java, and Cloud technologies[cite: 4, 5].
-- [cite_start]🌍 **Languages:** English, Hindi, Gujarati, Marathi (and learning Japanese, Spanish, and Mandarin!).
+- 🎓 **Education:** Pursuing MS in Computer Software Engineering at **ASU** (Exp. May 2026).
+- 🏆 **Latest Achievement:** 1st Place in the **Endstar Spark-Challenge Hackathon** (Capstone Track).
+- 🔭 **Currently working on:** Refining my skills in Python, Java, and Cloud technologies[cite: 4, 5].
+- 🌍 **Languages:** English, Hindi, Gujarati, Marathi (and learning Japanese, Spanish, and Mandarin!).
 
 ---
 
@@ -25,16 +25,16 @@
 
 ### 📂 Featured Projects
 
-#### ⛽ [PitStopGo: Alt-Fuel Knowledge Graph](https://github.com/yourusername/pitstopgo)
-[cite_start]*Designed a comprehensive knowledge graph integrating U.S. DOT datasets using SPARQL, GraphDB, and Azure.*
+#### ⛽ [PitStopGo: Alt-Fuel Knowledge Graph](https://github.com/shukalpunit/ATV-EV-Fuel)
+ *Designed a comprehensive knowledge graph integrating U.S. DOT datasets using SPARQL, GraphDB, and Azure.*
 - **Tech:** React, Flask, Ontotext Refine, Microsoft Azure.
 
 #### 😴 [Drowsiness Detection System](https://github.com/yourusername/drowsiness-detection)
-[cite_start]*Real-time facial monitoring system using Eye Aspect Ratio (EAR) to prevent accidents.*
+ *Real-time facial monitoring system using Eye Aspect Ratio (EAR) to prevent accidents.*
 - **Tech:** Python, OpenCV, Google Maps API.
 
-#### 🪐 [Solar System Simulation](https://itch.io/your-link)
-[cite_start]*Interactive Unity-based simulation of planetary dynamics published on Itch.io.*
+#### 🪐 [Solar System Simulation]([https://itch.io/your-link](https://rockie190.itch.io/solar-system))
+ *Interactive Unity-based simulation of planetary dynamics published on Itch.io.*
 - **Tech:** C#, Unity.
 
 ---
@@ -46,6 +46,6 @@
 ---
 
 ### 🤝 Connect with Me
-- [cite_start]**LinkedIn:** [punit-shukal](https://www.linkedin.com/in/punit-shukal) [cite: 3]
-- [cite_start]**Email:** pshukal@asu.edu [cite: 3]
+-  **LinkedIn:** [punit-shukal](https://www.linkedin.com/in/punit-shukal) [cite: 3]
+-  **Email:** pshukal@asu.edu [cite: 3]
 - **Portfolio:** [Optional: Link your website here]
