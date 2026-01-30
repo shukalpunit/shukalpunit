@@ -1,13 +1,13 @@
 # Hi there, I'm Punit Shukal! 👋
 
- I am a **Master’s student in Computer Software Engineering** at Arizona State University with a passion for building scalable web applications, exploring knowledge graphs, and creating immersive experiences in Unity[cite: 4, 5]. 
+ I am a **Master’s student in Computer Software Engineering** at Arizona State University with a passion for building scalable web applications, exploring knowledge graphs, and creating immersive experiences in Unity. 
 
 ---
 
 ### 🚀 About Me
 - 🎓 **Education:** Pursuing MS in Computer Software Engineering at **ASU** (Exp. May 2026).
 - 🏆 **Latest Achievement:** 1st Place in the **Endstar Spark-Challenge Hackathon** (Capstone Track).
-- 🔭 **Currently working on:** Refining my skills in Python, Java, and Cloud technologies[cite: 4, 5].
+- 🔭 **Currently working on:** Refining my skills in Python, Java, and Cloud technologies.
 - 🌍 **Languages:** English, Hindi, Gujarati, Marathi (and learning Japanese, Spanish, and Mandarin!).
 
 ---
@@ -33,19 +33,18 @@
  *Real-time facial monitoring system using Eye Aspect Ratio (EAR) to prevent accidents.*
 - **Tech:** Python, OpenCV, Google Maps API.
 
-#### 🪐 [Solar System Simulation]([https://itch.io/your-link](https://rockie190.itch.io/solar-system))
+#### 🪐 [Solar System Simulation]([https://rockie190.itch.io/solar-system])
  *Interactive Unity-based simulation of planetary dynamics published on Itch.io.*
 - **Tech:** C#, Unity.
 
 ---
 
 ### 📈 GitHub Stats
-![Punit's GitHub stats](https://github-readme-stats.vercel.app/api?username=punit-shukal&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=punit-shukal&layout=compact&theme=radical)
+![Punit's GitHub stats](https://github-readme-stats.vercel.app/api?username=shukalpunit&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shukalpunit&layout=compact&theme=radical)
 
 ---
 
 ### 🤝 Connect with Me
--  **LinkedIn:** [punit-shukal](https://www.linkedin.com/in/punit-shukal) [cite: 3]
--  **Email:** pshukal@asu.edu [cite: 3]
-- **Portfolio:** [Optional: Link your website here]
+-  **LinkedIn:** [punit-shukal](https://www.linkedin.com/in/punit-shukal) 
+-  **Email:** pshukal@asu.edu 
